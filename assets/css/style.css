@@ -45,11 +45,6 @@ a:hover {
   color: #ff9934
 }
 
-.main-content img {
-  float: left;
-  margin-right: 20px;
-}
-
 footer {
   position: fixed;
   bottom: 0;
@@ -60,6 +55,19 @@ footer {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+hr {
+  margin-bottom: 20px;
+}
+
+/* index.html */
+
+.main-content img {
+  float: left;
+  margin-right: 20px;
+}
+
+/* opponents.html */
 
 .opponents {
   float: left;
@@ -87,9 +95,7 @@ footer {
   color: #ff9934
 }
 
-hr {
-  margin-bottom: 20px;
-}
+/* contact.html */
 
 label,
 input[type=text],
