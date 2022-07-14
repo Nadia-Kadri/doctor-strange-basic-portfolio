@@ -60,3 +60,29 @@ footer {
   margin-bottom: 10px;
 }
 
+.opponents {
+  float: left;
+  margin-top: 20px;
+  margin-right: 25px;
+  position: relative;
+  height: 210px;
+}
+
+.opponents img {
+  height: 100%;
+}
+
+.opponents a {
+  display: block;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  background-image: linear-gradient(to bottom right, black, rgba(0, 0, 0, 0.355));
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.opponents a:hover {
+  color: #ff9934
+}
