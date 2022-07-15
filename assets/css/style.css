@@ -27,9 +27,8 @@ nav a {
 
 #logo {
   margin-left: 5px;
-  font-size: 1.9em;
-  font-weight: bold;
-  font-family: Cpperplate, fantasy;
+  font-size: 2.3em;
+  font-family: 'Cormorant SC', serif;
 }
 
 a {
@@ -58,6 +57,10 @@ footer {
 
 hr {
   margin-bottom: 20px;
+}
+
+h1 {
+  font-weight: normal;
 }
 
 /* index.html */
